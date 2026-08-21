@@ -17,7 +17,7 @@ import logo from '@/assets/logo.png'
 
   <main>
     <section class="hero">
-      <h1 style="text-align: center; font-size: 4rem;">MATEMAGICA</h1>
+      <h1 style="text-align: center; font-size: 2.5rem;">MATEMAGICA</h1>
       <h2 style="text-align: center; margin-bottom: 30px; margin-top: 10px;">Instrukcije iz matematike</h2>
       <h2>Pozdrav!</h2>
       <p>
