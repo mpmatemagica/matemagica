@@ -118,7 +118,7 @@ import logo from '@/assets/logo.png'
         <a href="mailto:kontakt@matemagica.hr">
           kontakt@matemagica.hr
         </a><br>
-        WhatsApp / Viber: 091 322 2031
+        WhatsApp / Viber: 0915195899
       </p>
     </section>
   </main>
