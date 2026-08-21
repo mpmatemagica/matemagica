@@ -9,7 +9,6 @@ export default defineConfig({
   base: '/matemagica/',
   plugins: [
     vue(),
-    vueDevTools(),
   ],
   resolve: {
     alias: {
