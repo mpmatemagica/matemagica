@@ -55,7 +55,7 @@ import logo from '@/assets/logo.png'
         <li>Učenik nakon svakog sata instrukcija dobiva malu zadaću za sljedeći sat da bi se osigurao kontinuirani rad, ne samo za vrijeme instrukcija.</li>
       </ul>
       <p>
-        Program priprema za državnu maturu je osmišljen da traje 30 sati (tj. 30 tjedana), od listopada do lipnja. Osim instrukcija fokusiranih na temeljno gradivo i zadatke s prošlih državnih matura, uključuje i:
+        Program priprema za državnu maturu je osmišljen da traje 30 sati (tj. 30 tjedana), od rujna/listopada do lipnja. Osim instrukcija fokusiranih na temeljno gradivo i zadatke s prošlih državnih matura, uključuje i:
       </p>
       <ul>
         <li>Početni dijagnostički test</li>
