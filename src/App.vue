@@ -21,7 +21,7 @@ import logo from '@/assets/logo.png'
       <h2 style="text-align: center; margin-bottom: 30px; margin-top: 10px;">Instrukcije iz matematike</h2>
       <h2>Pozdrav!</h2>
       <p>
-        Ja sam Massimo, nastavnik matematike s višegodišnjim iskustvom u nastavi i instrukcijama iz matematike.<br>
+        Ja sam Massimo, nastavnik matematike s višegodišnjim iskustvom u nastavi.<br>
         Nudim instrukcije iz matematike za osnovnu i srednju školu te pripreme za <a href="#matura">državnu maturu</a> za A i B razinu.
       </p>
     </section>
