@@ -75,6 +75,7 @@ import logo from '@/assets/logo.png'
           <tr>
             <th>Opis</th>
             <th>Cijena</th>
+            <th>Cijena 10.9.2026.</th>
           </tr>
         </thead>
 
@@ -82,27 +83,33 @@ import logo from '@/assets/logo.png'
           <tr>
             <td>Instrukcije OŠ, SŠ i matura - 60 min</td>
             <td>20 €</td>
+            <td>20 €</td>
           </tr>
 
           <tr>
             <td>Instrukcije - 5x60 min</td>
+            <td>80 €</td>
             <td>80 €</td>
           </tr>
 
           <tr>
             <td>Individualna godišnja priprema za maturu (30 tjedana)</td>
             <td>450 €</td>
+            <td>450 €</td>
           </tr>
           <tr>
             <td>Godišnja priprema za maturu - grupa 2 učenika</td>
+            <td>300 € po učeniku</td>
             <td>300 € po učeniku</td>
           </tr>
           <tr>
             <td>Godišnja priprema za maturu - grupa 3 učenika</td>
             <td>250 € po učeniku</td>
+            <td>250 € po učeniku</td>
           </tr>
           <tr>
             <td>Godišnja priprema za maturu - grupa 4 učenika</td>
+            <td>200 € po učeniku</td>
             <td>200 € po učeniku</td>
           </tr>
         </tbody>
