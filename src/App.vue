@@ -121,10 +121,8 @@ import logo from '@/assets/logo.png'
     <section id="contact">
       <h2>Kontakt</h2>
       <p>
-        E-mail:
-        <a href="mailto:kontakt@matemagica.hr">
-          kontakt@matemagica.hr
-        </a><br>
+        E-mail: pincin.massimo@gmail.com
+        <br>
         WhatsApp / Viber: 0915195899
       </p>
     </section>
