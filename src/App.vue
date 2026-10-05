@@ -37,9 +37,6 @@ import logo from '@/assets/logo.png'
         <li>Gradimo most između učenikovog trenutnog znanja i željenog znanja.</li>
         <li>Podučavamo kako se snaći u raznim matematičkim problemima i situacijama tako da učenik bude samostalan.</li>
       </ul>
-      <p>
-        Ukoliko ste zainteresirani, <a href="#contact">kontaktirajte</a> me!
-      </p>
     </section>
 
     <section id="matura">
@@ -63,9 +60,6 @@ import logo from '@/assets/logo.png'
         <li>Kontinuirano praćenje napretka</li>
         <li>Tjedno zadavanje i kontrolu domaće zadaće</li>
       </ul>
-      <p>
-        Ukoliko ste zainteresirani, <a href="#contact">kontaktirajte</a> me!
-      </p>
     </section>
 
     <section id="cjenik">
@@ -115,7 +109,7 @@ import logo from '@/assets/logo.png'
         </tbody>
       </table>
       <br>
-      Instrukcije se provode online na platformi Google Meet (uživo za sjeverozapadnu Istru). Potreban je samo mobitel/računalo, papir, kemijska i kalkulator!
+      Instrukcije se provode uživo za sjeverozapadnu Istru, a online za ostale dijelove Hrvatske pomoću Google Meeta. Za online instrukcije potrebno je samo računalo ili mobitel, kalkukator, olovka i papir. Doživljaj je potpuno isti kao i uživo!
     </section>
 
     <section id="contact">
