@@ -22,7 +22,7 @@ import logo from '@/assets/logo.png'
       <h2>Pozdrav!</h2>
       <p>
         Ja sam Massimo, nastavnik matematike s višegodišnjim iskustvom u nastavi.<br>
-        Nudim instrukcije iz matematike za osnovnu i srednju školu te pripreme za <a href="#matura">državnu maturu</a> za A i B razinu.
+        Nudim instrukcije iz matematike za osnovnu i srednju školu, pripreme za <a href="#matura">državnu maturu</a> za A i B razinu te instrukcije iz fizike i kemije za osnovnu školu.
       </p>
     </section>
 
