@@ -109,7 +109,11 @@ import logo from '@/assets/logo.png'
         </tbody>
       </table>
       <br>
-      Instrukcije se provode uživo za sjeverozapadnu Istru, a online za ostale dijelove Hrvatske pomoću Google Meeta. Za online instrukcije potrebno je samo računalo ili mobitel, kalkukator, olovka i papir. Doživljaj je potpuno isti kao i uživo!
+      Instrukcije se provode uživo za sjeverozapadnu Istru, a online za ostale dijelove Hrvatske pomoću Google Meeta.
+      Za online instrukcije potrebno je samo računalo ili mobitel, kalkukator, olovka i papir. Doživljaj je potpuno isti kao i uživo!
+
+      Za instrukcije uživo postoji mogućnost dolaska na adresu (do 15 km udaljenosti od Umaga).
+      Putni trošak se ne plaća za udaljenosti do 5 km od Umaga, a od 5 km do 15 km iznosi 5€.
     </section>
 
     <section id="contact">
