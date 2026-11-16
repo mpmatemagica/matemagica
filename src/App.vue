@@ -108,8 +108,8 @@ import logo from '@/assets/logo.png'
           </tr>
         </tbody>
       </table>
-      <br>
       <a href="/99352079_ZA_SVA_PRODAJNA_MJESTA_USLUGE_001_20261117_0700.csv" download>Preuzmi sidrene cijene u CSV formatu</a>
+      <br>
       <br>
       Instrukcije se provode uživo za sjeverozapadnu Istru, a online za ostale dijelove Hrvatske pomoću Google Meeta.<br>
       Za online instrukcije potrebno je samo računalo ili mobitel, kalkukator, olovka i papir. Doživljaj je potpuno isti kao i uživo!<br>
